@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f31319b8-a9c5-4a81-847d-db3dff71a004" name="Default" comment="" />
+    <list default="true" id="f31319b8-a9c5-4a81-847d-db3dff71a004" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Debug/data.json" afterPath="$PROJECT_DIR$/bin/Debug/data.json" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,18 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="197">
-      <file leaf-file-name="Configuration.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Configuration.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="197" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -48,6 +39,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8BD381B5-FCE5-4663-AE8F-F03962192106/3a/d4e555fc/Console.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7EDA6945-225D-4F3E-82C5-F31F305A504F/5e/082054e3/Console.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Vec2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/bin/Debug/data.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Group.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -70,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="249" />
     <option name="y" value="58" />
     <option name="width" value="1177" />
@@ -165,7 +157,7 @@
       <workItem from="1508856184589" duration="5277000" />
       <workItem from="1508865611057" duration="38000" />
       <workItem from="1508876118504" duration="17638000" />
-      <workItem from="1509036947813" duration="312000" />
+      <workItem from="1509036947813" duration="1301000" />
     </task>
     <task id="LOCAL-00001" summary="- Initial commit">
       <created>1509037209741</created>
@@ -178,7 +170,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31106000" />
+    <option name="totallyTimeSpent" value="32095000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -190,8 +182,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="249" y="58" width="1177" height="925" extended-state="1" />
-    <editor active="true" />
+    <frame x="249" y="58" width="1177" height="925" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24978466" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -643,8 +634,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Configuration.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="306">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding />
         </state>
       </provider>
