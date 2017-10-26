@@ -1,0 +1,11 @@
+C:\Users\oxysoft\RiderProjects\MasterPI\bin\Debug\MasterPI.exe
+C:\Users\oxysoft\RiderProjects\MasterPI\bin\Debug\MasterPI.pdb
+C:\Users\oxysoft\RiderProjects\MasterPI\bin\Debug\Colourful.dll
+C:\Users\oxysoft\RiderProjects\MasterPI\bin\Debug\Colourful.xml
+C:\Users\oxysoft\RiderProjects\MasterPI\obj\Debug\MasterPI.csprojResolveAssemblyReference.cache
+C:\Users\oxysoft\RiderProjects\MasterPI\obj\Debug\MasterPI.csproj.CoreCompileInputs.cache
+C:\Users\oxysoft\RiderProjects\MasterPI\obj\Debug\MasterPI.exe
+C:\Users\oxysoft\RiderProjects\MasterPI\obj\Debug\MasterPI.pdb
+C:\Users\oxysoft\RiderProjects\MasterPI\bin\Debug\Colorful.Console.dll
+C:\Users\oxysoft\RiderProjects\MasterPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oxysoft\RiderProjects\MasterPI\bin\Debug\Newtonsoft.Json.xml

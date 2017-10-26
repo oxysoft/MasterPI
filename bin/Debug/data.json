@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "characters": "141592",
+    "success": 128,
+    "fails": 33
+  },
+  {
+    "id": 1,
+    "characters": "6535",
+    "success": 87,
+    "fails": 16
+  },
+  {
+    "id": 1,
+    "characters": "8979",
+    "success": 60,
+    "fails": 14
+  },
+  {
+    "id": 2,
+    "characters": "3238",
+    "success": 53,
+    "fails": 7
+  },
+  {
+    "id": 2,
+    "characters": "4626",
+    "success": 48,
+    "fails": 3
+  },
+  {
+    "id": 3,
+    "characters": "43383",
+    "success": 43,
+    "fails": 5
+  },
+  {
+    "id": 3,
+    "characters": "27950",
+    "success": 37,
+    "fails": 9
+  },
+  {
+    "id": 4,
+    "characters": "28841",
+    "success": 34,
+    "fails": 4
+  },
+  {
+    "id": 4,
+    "characters": "97169",
+    "success": 29,
+    "fails": 3
+  },
+  {
+    "id": 4,
+    "characters": "39937",
+    "success": 31,
+    "fails": 3
+  },
+  {
+    "id": 5,
+    "characters": "51058",
+    "success": 34,
+    "fails": 0
+  },
+  {
+    "id": 5,
+    "characters": "20974",
+    "success": 25,
+    "fails": 8
+  },
+  {
+    "id": 5,
+    "characters": "94459",
+    "success": 18,
+    "fails": 8
+  },
+  {
+    "id": 5,
+    "characters": "23078",
+    "success": 17,
+    "fails": 4
+  },
+  {
+    "id": 5,
+    "characters": "16406",
+    "success": 8,
+    "fails": 6
+  },
+  {
+    "id": 5,
+    "characters": "28620",
+    "success": 0,
+    "fails": 2
+  },
+  {
+    "id": 5,
+    "characters": "89986",
+    "success": 0,
+    "fails": 0
+  },
+  {
+    "id": 5,
+    "characters": "28034",
+    "success": 0,
+    "fails": 0
+  },
+  {
+    "id": 5,
+    "characters": "82534",
+    "success": 0,
+    "fails": 0
+  },
+  {
+    "id": 5,
+    "characters": "21170",
+    "success": 0,
+    "fails": 0
+  }
+]
